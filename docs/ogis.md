@@ -1,4 +1,0 @@
- 
-# ogis module
-
-::: ogis.ogis
