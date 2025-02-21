@@ -3,7 +3,7 @@ __pycache__/
 private/
 *.py[cod]
 *$py.class
-
+*.geojson
 # C extensions
 *.so
 
