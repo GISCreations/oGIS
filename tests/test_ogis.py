@@ -2,7 +2,6 @@
 
 """Tests for `ogis` package."""
 
-
 import unittest
 
 from ogis import ogis
